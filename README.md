@@ -7,3 +7,12 @@
 ### [NewsGrid](https://voluble-tulumba-397bf1.netlify.app)
 
 ### [Portfolio Website](https://resilient-babka-f555c8.netlify.app)
+
+## Mini projects:
+
+  ### [Hamburger Menu](https://steady-scone-3f44f5.netlify.app)
+
+  ### [Dropdown Menu](https://glittery-dragon-5dcea6.netlify.app)
+
+  ### [Knowledge Timeline](https://leafy-chaja-e740e1.netlify.app)
+
